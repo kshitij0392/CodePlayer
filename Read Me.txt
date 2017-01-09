@@ -1,0 +1,5 @@
+CodePlayer is a Code Builder for beginners willing to learn HTML CSS and JavaScript.
+It is build using HTML CSS JAVASCRIPT AND JQUERY !! 
+ 
+ 
+Feel Free to use it. here http://www.kshitijrangari.com/CodePlayer/index.html
